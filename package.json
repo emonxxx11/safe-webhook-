@@ -1,15 +1,12 @@
 {
   "name": "webhook-api",
   "version": "1.0.0",
-  "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.19.2",
-    "axios": "^1.6.7",
-    "screenshot-desktop": "^1.15.0",
-    "form-data": "^4.0.0"
+    "axios": "^1.6.7"
   }
 }
